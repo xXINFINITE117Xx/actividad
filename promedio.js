@@ -1,3 +1,5 @@
+/*Se ingresa los datos del usuario*/
+
 function calcularPromedio(){
     let numero1 = parseFloat(document.getElementById("numero1")).value
     let numero2 = parseFloat(document.getElementById("numero2")).value
